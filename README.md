@@ -2,7 +2,7 @@
 
 I work at the intersection of clinical expertise, data science, payment integrity, and strategic product thinking.
 
-This GitHub is my public workspace for documenting the rapid evolution of product management in the agentic AI era — exploring how these new tools accelerate research, prototyping, iteration, and execution beyond anything we've seen before.
+This GitHub is my public workspace for documenting the rapid evolution of product management in the agentic AI era and my exploration for how these new tools can accelerate the research, prototyping, iteration, and execution speed beyond anything we've seen before.
 
 It's where I'll show my process: what I build, what I test, what I discard, and what proves worth taking further.
 
